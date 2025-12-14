@@ -1,4 +1,4 @@
-Readme.txt
+requirements.txt
 
 The packages that we used that needs an special installization:
 -spacy
@@ -31,4 +31,5 @@ pip install numpy pandas nltk scikit-learn matplotlib seaborn joblib spacy afinn
 
 Download spaCy Model:
 python -m spacy download en_core_web_sm
+
 
